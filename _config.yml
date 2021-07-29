@@ -1,1 +1,20 @@
-remote_theme: y7kim/agency-jekyll-theme
+# Site settings
+title: Bekán | El Templo de la música
+email: contacto@bekan.online
+description: "Aprende con nosotros el arte de los sonidos y el tiempo."
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+social:
+  - title: twitter
+    url: https://twitter.com/academiabekan
+  - title: facebook
+    url: https://www.facebook.com/academiabekan
+
+address:
+  - line: Río Colorado 412
+  - line: Arquitos, Qro
